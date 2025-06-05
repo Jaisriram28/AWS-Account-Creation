@@ -1,6 +1,6 @@
  # CREATE AN  ACCOUNT IN AWS SET UP A ROOT USER AND AN IAM USER 
-### REG NUMBER: 212223220121
-### NAME: VARSHA A
+### REG NUMBER: 212222040057
+### NAME: JAI SRIRAM S
 ## AIM
 To Create an Account in AWS Set up a Root user and an IAM user.
 ## PROBLEM STATEMENT
@@ -34,7 +34,7 @@ The AWS account was successfully created, with set up for the root user . Additi
 
  
  Include your Screenshots Here.
-## RESULT
+
  
 
   
